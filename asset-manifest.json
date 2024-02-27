@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/wvalverder/curso-react/static/css/main.28cda0ca.css",
+    "main.js": "/wvalverder/curso-react/static/js/main.be34f81e.js",
+    "static/js/592.cec7b3af.chunk.js": "/wvalverder/curso-react/static/js/592.cec7b3af.chunk.js",
+    "index.html": "/wvalverder/curso-react/index.html",
+    "static/media/delete.svg": "/wvalverder/curso-react/static/media/delete.7018c4465589031bd51c8efbe21df9ca.svg",
+    "static/media/check.svg": "/wvalverder/curso-react/static/media/check.e9a948bba52a34123d2ed7aeda0ea495.svg",
+    "main.28cda0ca.css.map": "/wvalverder/curso-react/static/css/main.28cda0ca.css.map",
+    "main.be34f81e.js.map": "/wvalverder/curso-react/static/js/main.be34f81e.js.map",
+    "592.cec7b3af.chunk.js.map": "/wvalverder/curso-react/static/js/592.cec7b3af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28cda0ca.css",
+    "static/js/main.be34f81e.js"
+  ]
+}
