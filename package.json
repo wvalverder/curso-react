@@ -38,7 +38,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "file:///E:/PruebasHTML-CSS/my-project-react/build/",
+  "homepage": "https://github.com/wvalverder/curso-react",
   "devDependencies": {
     "gh-pages": "^6.1.1"
   }
